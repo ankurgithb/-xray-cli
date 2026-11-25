@@ -18,7 +18,7 @@ def main() -> None:
     stateless_mode = False
     last_response = None
 
-    print("lessgooo🚀")
+    print("lessgooo")
     print("Commands: /stateless, /context, /raw, /reset, /exit\n")
 
     while True:
